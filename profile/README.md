@@ -1,12 +1,18 @@
-## Hi there 👋
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/104809845">
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">
+Vitest
+</h1>
+<p align="center">
+A blazing fast unit test framework powered by Vite.
+<p>
+<div align="center">
+  <a href="https://vitest.dev/">Documentation</a> —
+  <a href="https://vitest.dev/guide">Getting Started Guide</a> —
+  <a href="https://vitest.dev/guide/why">Why a new test runner</a>
+</div>
+<h3 align="center">
+<a href="https://chat.vitest.dev"><i>Get involved!</i></a>
+</h3>
